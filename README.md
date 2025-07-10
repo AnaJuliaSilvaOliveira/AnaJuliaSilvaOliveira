@@ -1,6 +1,14 @@
 # Hi! Great to see you here 💖
-## FullStack Developer | AI/ML Specialist | AI Engineer
-## Desenvolvedora FullStack | Especializada em IA | Engenheira de Aprendizado de Máquina
+### Full Stack Developer | AI/ML Specialist | AI Engineer
+### Desenvolvedora Full Stack | Especializada em IA | Engenheira de Aprendizado de Máquina
+
+### 💃 Who Am I?
+I'm a dedicated, kind and introspective person who is passionate about technology. I love to learn and lead meaningful projects that solve complex problems and create impact. In my spare time, I enjoy singing, playing video games, and cooking (✿◡‿◡)
+
+I'm always seeking to grow, and right now I'm focused on earning a **Google Cloud Platform certification** to deepen my skills in cloud-based AI.
+
+#### 🚀 Core Values
+✨ Ethics | Inclusivity | Honesty | Compassion | Continuous Learning
 
 ### 🧑‍💻 Languages & Platforms
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -28,8 +36,8 @@
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ### ⚙️ Tools & DevOps
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white
+![Databricks](https://img.shields.io/badge/-Databricks-EF3E42?style=flat&logo=databricks&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Weights & Biases](https://img.shields.io/badge/-Weights%20%26%20Biases-FFBE00?style=flat&logo=wandb&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)

@@ -16,7 +16,7 @@
 I'd love to chat, make new friends and learn something new, so feel free to reach out! 💕
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/ana-julia-da-silva-de-oliveira-159232191/)"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="[https://www.linkedin.com/in/ana-julia-da-silva-de-oliveira-159232191/]"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="mailto:njsilvaoliveira@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi!-green?style=for-the-badge&logo=gmail"></a>
 </p>
 

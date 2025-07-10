@@ -1,5 +1,5 @@
 # Hi! Great to see you here 💖
-### ‼️Full Stack Developer | AI/ML Specialist | AI Engineer
+### Full Stack Developer | AI/ML Specialist | AI Engineer
 ### Desenvolvedora Full Stack | Especializada em Aprendizado de Máquina | Engenheira de IA
 ♀️ _She/Her_ _Ela/Dela_
 

@@ -3,7 +3,7 @@
 ### Desenvolvedora Full Stack | Especializada em Aprendizado de Máquina | Engenheira de IA
 ♀️ _She/Her_ _Ela/Dela_
 
-🧩 _TEA nivel 1_
+🧩 _TEA_
 
 🌎 **Português** | **Inglês** | **Espanhol** | **Italiano (Iniciante)**
 

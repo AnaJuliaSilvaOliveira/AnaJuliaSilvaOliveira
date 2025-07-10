@@ -5,6 +5,8 @@ _She/Her_ _Ela/Dela_
 
 _TEA nivel 1_
 
+**Português** **Inglês** **Espanhol** **Italiano (Iniciante)**
+
 ### 💃 Who Am I?
 I'm a dedicated, kind and introspective person who is passionate about technology. I love to learn and lead meaningful projects that solve complex problems and create impact. In my spare time, I enjoy singing, playing video games, and cooking (✿◡‿◡)
 

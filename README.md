@@ -1,6 +1,6 @@
 # Hi! Great to see you here 💖
-## Full Stack Developer | AI/ML Specialist | AI Engineer
-### Desenvolvedora Full Stack | Especializada em Aprendizado de Máquina | Engenheira de IA
+## Full Stack Developer | AI/ML Developer | AI Developer
+### Desenvolvedora Full Stack | Especializada em Aprendizado de Máquina | Desenvolvedora de IA
 ♀️ _She/Her_ _Ela/Dela_
 
 🧩 _Autism_ _TEA nivel 1_
@@ -59,7 +59,7 @@ I'm always seeking to grow, and right now I'm focused on earning a **Google Clou
 I'd love to chat, make new friends and learn something new, so feel free to reach out! 💕
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ana-julia-da-silva-de-oliveira-159232191/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/ana-julia-da-silva-de-oliveira/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="mailto:njsilvaoliveira@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi!-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
